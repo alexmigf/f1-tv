@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Formula 1 TV
+Exec=webapp-container --app-id="f1-tv.alexmigf" --webappUrlPatterns https://account.formula1.com/#/en/login?redirect=https%3A%2F%2Ff1tv.formula1.com%2Fen%2F
+Icon=assets/logo.svg
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true

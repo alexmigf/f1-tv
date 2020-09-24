@@ -1,0 +1,15 @@
+{
+    "name": "f1-tv.alexmigf",
+    "description": "Unofficial Formula 1 TV Ubports Web App",
+    "architecture": "@CLICK_ARCH@",
+    "title": "Formula 1 TV",
+    "hooks": {
+        "f1-tv": {
+            "apparmor": "f1-tv.apparmor",
+            "desktop":  "f1-tv.desktop"
+        }
+    },
+    "version": "1.0.0",
+    "maintainer": "Alexandre Faustino <alexmigf@gmail.com>",
+    "framework" : "ubuntu-sdk-16.04"
+}
